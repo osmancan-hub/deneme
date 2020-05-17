@@ -1,0 +1,9 @@
+// Aöıklama satırı 
+
+include #dosya
+
+int main(int sayi, string test) {
+
+echo "say hello");
+
+}
